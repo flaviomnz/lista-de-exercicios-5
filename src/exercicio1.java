@@ -1,5 +1,14 @@
 import java.util.Scanner;
 
+//Faça um programa para imprimir
+
+/*       1
+         2   2
+         3   3   3
+         .....
+         n   n   n   n   n   n  ... n
+
+  */
 public class exercicio1 {
     public static void gerador(int valorinput) {
         for (int i = 0; i < valorinput; i++) {
